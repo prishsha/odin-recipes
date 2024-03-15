@@ -1,0 +1,19 @@
+p{
+    font-size: 18px;
+    color: darkblue;
+}
+
+h1{
+    font-size: 32px;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
+
+.image-style{
+    width:600px;
+    height:auto;
+    margin:20px;
+    text-align: center;
+
+}
